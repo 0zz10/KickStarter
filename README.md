@@ -79,7 +79,7 @@ fundings ‘$6,046.15', ‘$101,022.29’ and ‘$104,459.49’ respectively
 
 
 # 3. Visualization
-![Dashboard](https://github.com/0zz10/KickStarter/blob/master/dashboard.png?raw=true)
+![Dashboard](https://github.com/0zz10/KickStarter/blob/master/Dashboard.png?raw=true)
 
 # 4. Recommendation
 
